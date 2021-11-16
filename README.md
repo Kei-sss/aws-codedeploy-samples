@@ -6,7 +6,7 @@ These fall into one of a few different categories, including:
 
 - Sample Applications
 - Integrations and templates for configuration management systems
-- Integrations with load-balancers like Elastic Load Balancing
+- Integrations with load-balances like Elastic Load Balancing
 - Sample hooks for version control systems like Git.
 
 Also included is a utility to pull STS credentials for CodeDeploy's IAM Session support
